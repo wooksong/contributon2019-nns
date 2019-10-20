@@ -16,3 +16,17 @@
 - [@abcinje](https://github.com/abcinje)
 - [@Lee-WonJun](https://github.com/Lee-WonJun)
 - [@TunaLee](https://github.com/TunaLee)
+
+## Contribution Summary
+#### Issues
+- [Issue: Feature Request]()
+- [Issue: Refactoring Suggestion]()
+- [Issue: Bug Report]()
+- [Issue: WiP]()
+- [Issue: Questions and Discussion]()
+
+#### PRs
+- [PR: New Feature]()
+- [PR: Refactoring]()
+- [Issue: Bug Fix]()
+- [Issue: Correct Type]()
