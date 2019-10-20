@@ -18,7 +18,7 @@
 - [@TunaLee](https://github.com/TunaLee)
 
 ## Contribution Summary
-#### Issues
+## Issues
 
 * Feature Request
   
@@ -65,7 +65,7 @@
 
 ---
 
-#### PRs
+## PRs
 * New Feature
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1799)](https://github.com/nnsuite/nnstreamer/pull/1799) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1799?label=%20)
 
