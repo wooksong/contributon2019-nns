@@ -30,6 +30,8 @@
   
  4. [![ ](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1796)](https://github.com/nnsuite/nnstreamer/issues/1796) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1796?label=%20)
 
+ 5. [![ ](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1759)](https://github.com/nnsuite/nnstreamer/issues/1759) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1759?label=%20)
+
 * Refactoring Suggestion
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1745)](https://github.com/nnsuite/nnstreamer/issues/1745) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1745?label=%20)
 
@@ -52,6 +54,8 @@
  5. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1793)](https://github.com/nnsuite/nnstreamer/issues/1793) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1793?label=%20)
 
  6. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/74)](https://github.com/nnsuite/nnstreamer-example/issues/74) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/74?label=%20)
+
+ 7. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1805)](https://github.com/nnsuite/nnstreamer/issues/1805) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1805?label=%20)
 
 * WiP
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/69)](https://github.com/nnsuite/nnstreamer-example/issues/69) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/69?label=%20)
@@ -79,8 +83,6 @@
   
  6. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/80)](https://github.com/nnsuite/nnstreamer-example/pull/80) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/80?label=%20)
   
- 7. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1800)](https://github.com/nnsuite/nnstreamer-example/pull/1800) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1800?label=%20)
-
 * Refactoring
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1748)](https://github.com/nnsuite/nnstreamer/pull/1748) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1748?label=%20)
 
@@ -96,16 +98,18 @@
   
  7. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1726)](https://github.com/nnsuite/nnstreamer-example/pull/1726) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1726?label=%20)
 
+ 8. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/63)](https://github.com/nnsuite/nnstreamer-example/pull/63) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/63?label=%20)
+
 * Bug Fix
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/79)](https://github.com/nnsuite/nnstreamer-example/pull/79) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/79?label=%20)
 
- 2. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/73)](https://github.com/nnsuite/nnstreamer-example/pull/73) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/73?label=%20)
+ 2. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1794)](https://github.com/nnsuite/nnstreamer/pull/1794) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1794?label=%20)
 
- 3. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1794)](https://github.com/nnsuite/nnstreamer/pull/1794) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1794?label=%20)
+ 3. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1758)](https://github.com/nnsuite/nnstreamer/pull/1758) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1758?label=%20)
 
- 4. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1758)](https://github.com/nnsuite/nnstreamer/pull/1758) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1758?label=%20)
+ 4. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/75)](https://github.com/nnsuite/nnstreamer-example/pull/75) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/75?label=%20)
 
- 5. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/75)](https://github.com/nnsuite/nnstreamer-example/pull/75) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/75?label=%20)
+ 5. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer/1815)](https://github.com/nnsuite/nnstreamer/pull/1815) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer/1815?label=%20)
 
 * Correct Typo
  1. [![](https://img.shields.io/github/issues/detail/title/nnsuite/nnstreamer-example/76)](https://github.com/nnsuite/nnstreamer-example/pull/76) ![](https://img.shields.io/github/issues/detail/state/nnsuite/nnstreamer-example/76?label=%20)
